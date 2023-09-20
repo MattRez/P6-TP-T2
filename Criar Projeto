@@ -1,0 +1,7 @@
+1. npm init -y
+
+2. npm install express // yarn add express
+
+3. npm install nodemon --save-dev // yarn add nodemon -D
+
+4. No arquivo package.json criar um scrit chamado start com o conteúdo "nodemon index.js"
